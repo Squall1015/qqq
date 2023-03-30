@@ -1,0 +1,22 @@
+https://signals.network/
+https://www.pages.xyz/
+https://www.fatboy.com/null
+https://justaf.myshopify.com/         <------- React Backbone.js ------>
+http://www.company.com/               <------- React Next.js  ------->
+https://www.pcrpro.live              <------- React ------->
+https://www.figma.com                <------- React ------->
+https://hardikchitkara.github.io/Myntra/       <------- React ------>
+https://ftmshrooms.netlify.app/    <----------- React & Node.js& Next.js ----------------->
+https://vethugs.com                <----------- React & jQuery --------------------------->
+https://www.caratlane.com/           <----------- Vue & React --------------->
+https://www.joshrubietta.com/         ---------- React -------------
+https://www.aquest.it/it/3d/           ---------- React ---------------
+http://thebanklab.co/                 ---------- React --------------
+https://www.velasca.com/                 --------------- React -----------------
+https://www.metalpay.com/               ---------------- React & Node.js & Next.js ----------------
+https://www.missha.com.au/ (Ecommerce)        ------------- Wix (CMS) React ----------
+https://influencerscalculator.com/               -------------- Mobile app ---------------
+======================================================================================
+                                   Vue JS
+======================================================================================
+https://mytravel.bookingcore.org/  

@@ -1,0 +1,118 @@
+https://www.upwork.com/jobs/FrontEnd-Development-using-Gatsby_~01955db93a264fe74e/
+
+Hi, Nima~
+As a GatsbyJS specialist, I have rich hands-on experience in GatsbyJS and SASS and excel in them.
+I have got proven record of React/GatsbyJS development history and have ever developed lots of designs into reusable components hundreds of times.
+
+While converting designs into websites and I always place great emphasis on writing clean code by implementing best practices that ensure high performance and maintainability as well.
+My deliverables are a pixel-perfect match with the design and responsiveness in all major browsers and different screen size devices.
+
+And for about SASS part, I love SASS architecture & BEM methodology and am very familiar with its features like Mixin, Variables, Nesting, ...
+In addition, I am very familiar with ClickUp and Hubstaff.
+
+I'm confident I'm the right candidate for the position, and I'm willing to complete your project within your budget and timeline.
+Looking forward to working with you.
+
+Best regards
+
+Vitalyi
+
+
+Hi, Antony~
+I will complete this project by 11.6.
+As a seasoned and much experienced GatsbyJS developer, I have sufficient skill in this project.
+Having a deep understanding of GatsbyJS plugins such as 'gatsby-transformer-remark', I have worked on many modern web application and site development projects by using Material UI as well.
+
+As a good hand in GatsbyJS, I will convert your Figma design into pixel-perfect and mobile responsive GatsbyJS website till 6th Nov.
+
+I'm confident I'm the right candidate for the position, and I'm willing to complete your project within your budget and timeline.
+Looking forward to working with you.
+
+Best regards
+Vitalyi
+
+
+Hi, Itay~
+To connect the existing template into WordPress Headless CMS, we should follow these things:
+-Install the WPGatsby & WPGraphQL plugins to your WordPress site
+-Install WordPress plugin to the Gatsby site
+-Configure the plugin with your WordPress credentials 
+-Access all your WordPress data using GraphQL queries
+
+I've developed the modern Gatsby websites many times with Headless CMS such as WordPress, Prismic, Contentful, and Strapi, which get the data through GraphQL.
+These are my previous works(Gatsby and WordPress Headless CMS).
+
+So I have good hands in this field.
+For instance, if there are lots of images on your websites, to improve the site speed we should use the gatsby-plugin-image.
+And also I always convert the designs to pixel-perfect results which are highly mobile responsive.
+
+I think this rich experience definitely gives me an edge over the others.
+
+I strongly believe that I could be one of the promising candidates as I have all qualities that could be a great asset for this job.
+Looking forward to working with you.
+Best regards
+
+Vitalii
+
+
+https://www.upwork.com/jobs/Front-End-Developer-React-Gatsby-etc-for-Marketing-Site_~0107924efa201e6fbb/
+
+Hi, Jim
+Here are my suggestions and questions:
+-Is this your site static or dynamic site?
+If it is a static website, I recommend using Netlify for the hosting server.
+Because Netlify is focused on hosting static websites whereas Heroku is designed to host dynamic websites.
+-I prefer to use GraphQL to get the contents from Strapi because GraphQL lets you ask for what you want in a single query.
+How do you think?
+
+To be successful in this job, I think the candidate needs to have rich hands-on experience in React development and Strapi Headless CMS.
+As a seasoned React developer, I have developed several websites by using React, GatsbyJS, and NextJS and I know the ropes of React including many recommended libraries such as Redux Thunk & Saga, React Router, React Hooks, Gatsby plugins, and RESTful API/Apollo Graphql.
+And also I built several Jamstack websites using the same tech stack: Strapi + GatsbyJS & Prismic + GatsbyJS as your project
+
+Here are my previous working histories.
+
+And I have enough knowledge of DevOps, have experience in Netlify, Heroku, Gatsby Cloud, and so on.
+I have ever taken part in team working as a team member, so I got a deep knowledge of Git such as Git branch management, Git command, adding issues, planning on Git and $lack communication is fine for me.
+
+These my experience makes me stand out and gives me an edge over the others.
+
+I would like to discuss this in more detail and work with you to reuse my hands-on experience again.
+Looking forward to hearing from you.
+Regards,
+
+Yurii
+
+https://www.upwork.com/jobs/Convert-Wordpress-blog-headless-instance-and-set-Next-create-static-pages_~01a1900364df7316fe/
+
+Hello!
+My work will include setup Headless WordPress and migrate existing WordPress instances and convert existing HTML blog pages to NextJS, and I can implement it using Next.js, Tailwind CSS, and WordPress that are very familiar to me.
+Once we move done, I will create a redirect file to set up 301 redirects to point to a new location.
+I built several Jamstack websites using the same tech stack - Next.js + WordPress as your project
+
+Here is my working history that was built with Next.js + WordPress CMS headless + Tailwind CSS
+
+This is the bitcoin lottery website by using NextJS for the frontend and WordPress for the backend.
+All data are fetching from Prismic by using GraphQL API and able to edit SEO content as well. (Blog and tutorial content, images, videos ... )
+
+I would like to discuss this in more detail and work with you to reuse my hands-on experience again.
+Looking forward to hearing from you.
+Regards,
+
+Yurii
+
+
+https://www.upwork.com/jobs/Maintain-gastbyjs-website-and-blog_~013b822e9dc78d1eb0/
+
+Hi, Benoist!
+As a seasoned and much experienced React and Gatsby developer, I am excited to submit my proposal.
+Having a deep understanding of React principles, I have worked on many modern web applications and site development projects by using React and Gatsby.
+
+In many projects, I demonstrated my skills in React/Javascript/Typescript to improve the performance of React Application
+
+What truly set me apart from other candidates, I always place a great emphasis on writing clean code by implementing best practices that ensure high performance and maintainability as well.
+
+Hope to work with you to reuse my hands-on experience again.
+Looking forward to hearing from you.
+Regards,
+
+Yurii
