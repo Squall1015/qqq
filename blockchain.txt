@@ -2,3 +2,6 @@ https://learn.microsoft.com/en-us/training/paths/ethereum-blockchain-development
 https://docs.soliditylang.org/en/v0.8.6/layout-of-source-files.html
 https://blog.infura.io/post/getting-started-with-infura-28e41844cc89
 https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.ROW_ti.8322&utm_content=deal4584&utm_term=_._ag_80385735315_._ad_535397279733_._kw__._de_c_._dm__._pl__._ti_dsa-774930035449_._li_9040960_._pd__._&matchtype=b&gclid=CjwKCAjwgb6IBhAREiwAgMYKRja89iWTf-4oDKmsBFWqXVSYJV3238o92EgJ1-waP0B55OV_4CMOShoCdJoQAvD_BwE
+
+
+Video Stream call: https://www.google.com/search?q=obs&oq=obs&aqs=chrome..69i57j0i67i650l3j0i512l2j69i65j69i60.2735j0j7&sourceid=chrome&ie=UTF-8
